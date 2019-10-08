@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Salin Dert",
+        "departmentName": "Pharmacy",
+        "salary": 3500
+    },
+    {
+        "id": 2,
+        "name": "Odales Jam",
+        "departmentName": "Electronics",
+        "salary": 1500
+    },
+    {
+        "id": 3,
+        "name": "Emil Res",
+        "departmentName": "Food",
+        "salary": 2500
+    },
+    {
+        "id": 4,
+        "name": "Peter Sherf",
+        "departmentName": "Instructor",
+        "salary": 3000
+    },
+    {
+        "id": 5,
+        "name": "Glory Helen",
+        "departmentName": "Ice cream",
+        "salary": 2500
+    },
+    {
+        "id": 6,
+        "name": "Bienvenido Chao",
+        "employeeID": 8,
+        "departmentName": "Car Dealer",
+        "salary": 4000
+    },
+    {
+        "id": 7,
+        "name": "Idan Emi",
+        "departmentName": "Train Station",
+        "salary": 3400
+    },
+    {
+        "id": 8,
+        "name": "Amanda Sue",
+        "departmentName": "Accounting",
+        "salary": 4200
+    },
+    {
+        "id": 9,
+        "name": "Ronald Jert",
+        "departmentName": "Shoes",
+        "salary": 2000
+    },
+    {
+        "id": 10,
+        "name": "Jef Yon",
+        "departmentName": "Chef",
+        "salary": 3000
+    }
+]
